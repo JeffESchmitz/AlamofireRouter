@@ -1,2 +1,2 @@
 # AlamofireRouter
-Recreation of GrokSwifts blog 'Using a Router to Organize Your Alamofire API Calls'
+Recreation of GrokSwifts blog 'Using a Router to Organize Your Alamofire API Calls' - https://grokswift.com/router/
